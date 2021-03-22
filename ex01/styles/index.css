@@ -1,0 +1,30 @@
+body {
+    family font: times new roman;
+    text align: center;
+    font color: blue;
+    
+}
+h1 {
+    font color: red;
+    family font: "Times New Roman";
+    text align: center;
+    font weight: bold;
+}
+{
+    #content{
+        width: 700px;
+        display: block;
+        height: auto;
+    }
+    #content > img{
+       float: left; width: 200px;
+       height: 200px;
+       margin: 5px 8px;
+    }
+}
+.responsive {
+    width: 100%;
+    height: auto;
+  }
+
+
